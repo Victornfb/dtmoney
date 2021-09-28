@@ -1,46 +1,66 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="https://victornfb.com/" target="_blank">
+    <img alt="dtMoney" src="./src/assets/logo.svg" width="160px">
+  </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <a href="https://victornfb.com/" target="_blank">
+    <img alt="dtMoney" src="https://i.imgur.com/KUi5E7P.jpg" />
+  </a>
+</h1>
 
-## Available Scripts
+## 💻 Projeto
 
-In the project directory, you can run:
+O dtMoney é perfeito para aqueles que desejam organizar sua vida financeira de forma prática e rápida.
 
-### `npm start`
+Este é um projeto desenvolvido visando o aprendizado da biblioteca ReactJS.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🎨 Layout
 
-### `npm test`
+Você pode visualizar o layout do projeto através do link abaixo:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Layout Web](https://www.figma.com/file/lVl7uhHDYBaxHWeSHvFHlf/dtmoney-Ignite) 
 
-### `npm run build`
+Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🧪 Tecnologias
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [Polished](https://polished.js.org/)
 
-### `npm run eject`
+## 🚀 Como executar
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Clone o projeto e acesse a pasta do mesmo.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+$ git clone https://github.com/Victornfb/dtmoney.git
+$ cd dtmoney
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ npm
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Iniciar o projeto
+$ npm start
+```
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-## Learn More
+## 📝 License
+Esse projeto está sob a licença MIT. Para mais detalhes:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<a href="https://opensource.org/licenses/MIT" target="_blank"><img alt="Licença" src="https://img.shields.io/badge/license-MIT-0a66c2?style=flat-square"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito por [Victor Nunes](https://victornfb.com/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Nunes-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victornfb/)](https://www.linkedin.com/in/victornfb/) 
+[![Gmail Badge](https://img.shields.io/badge/-victornfb@outlook.com-ea4435?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victornfb@outlook.com)](mailto:victornfb@outlook.com)
